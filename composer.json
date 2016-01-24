@@ -1,0 +1,19 @@
+{
+    "name": "esif/to-do-list-app",
+    "description": "Building a To-do List App with ES6/JSX/React, Flux and Slim Framework",
+    "autoload": {
+        "psr-4": {"ToDoListApp\\": "src/php/"}
+    },
+    "require": {
+        "slim/slim": "2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emrah Sifoğlu",
+            "email": "emrah.sifoglu@gmail.com"
+        }
+    ]
+}
+
+
